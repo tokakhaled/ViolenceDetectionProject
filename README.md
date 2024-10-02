@@ -9,3 +9,5 @@
 6. **User-Friendly Interface**: A Flutter-based UI allows users to interact with the system, view live stream analysis, query results, and generated reports.
 
 This project provides a powerful system for detecting and analyzing violence in video streams, combining advanced machine learning models with a robust storage and interaction framework.
+
+The Video of the project will be found in https://drive.google.com/file/d/1SSAZ-oZBoTOWnsnwi2Oryh6x2nnQ6wha/view
