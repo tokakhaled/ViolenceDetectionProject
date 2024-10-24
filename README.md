@@ -12,3 +12,40 @@ This project provides a powerful system for detecting and analyzing violence in 
 
 ## Video Demonstration
 The video of the project can be found [here](https://drive.google.com/file/d/1SSAZ-oZBoTOWnsnwi2Oryh6x2nnQ6wha/view).
+
+## Contributors
+<table align="center">
+  <tr>
+    <td align="center">
+    <a href="https://github.com/tokakhaled" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/40439659?v=4" width="100px;" alt="Toka Khaled"/>
+    <br />
+    <sub><b>Toka Khaled</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Shaimaa-moh" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/40439659?v=4" width="100px;" alt="Shaimaa-moh "/>
+    <br />
+    <sub><b> Shaimaa-moh </b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/YossefRamadan" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/40439659?v=4" width="100px;" alt="YossefRamadan"/>
+    <br />
+    <sub><b> YossefRamadan </b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Nehal12-hammam" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/40439659?v=4" width="100px;" alt="Nehal12-hammam"/>
+    <br />
+    <sub><b>Nehal12-hammam</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/EmanArafa66" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/40439659?v=4" width="100px;" alt="EmanArafa66"/>
+    <br />
+    <sub><b>EmanArafa66</b></sub></a>
+    </td>
+  </tr>
+ </table>
+
